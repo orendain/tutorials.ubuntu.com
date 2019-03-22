@@ -2,7 +2,7 @@
 id: test-drive-codelabs3
 summary: Learn to test drive.
 categories: driverless
-tags: driverless, test-drive, aquarium, security
+tags: driverless, test-drive, aquarium, security, gci
 image: https://assets.ubuntu.com/v1/16e21217-pictogram-safety-orange.svg
 difficulty: 1
 status: draft

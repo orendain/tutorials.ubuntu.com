@@ -65,6 +65,10 @@ Duration: 3
  * Last Name
  * Email
 
+ - First Name
+ - Last Name
+ - Email
+
 4\. Click on **Create account and email temporary password** at the bottom of the page.
 
  > A password will be sent to your email within minutes.

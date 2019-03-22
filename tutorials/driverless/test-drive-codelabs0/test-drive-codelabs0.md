@@ -1,6 +1,6 @@
 ---
 id: test-drive-codelabs0
-summary: Learn to test drive.
+summary: Check the list
 categories: driverless
 tags: driverless, test-drive, aquarium, security
 image: https://assets.ubuntu.com/v1/16e21217-pictogram-safety-orange.svg
@@ -65,9 +65,9 @@ Duration: 3
  * Last Name
  * Email
 
- - First Name
- - Last Name
- - Email
+ - First Name 2
+ - Last Name 2
+ - Email 2
 
 4\. Click on **Create account and email temporary password** at the bottom of the page.
 

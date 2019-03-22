@@ -8,15 +8,13 @@ difficulty: 1
 status: draft
 feedback_url: https://github.com/h2oai/tutorials/issues
 published: 2018-03-23
-author: Ana Castro <ana.castro@h2o.ai>
+
 ---
 
 # Getting Started with Driverless AI Test Drive
 
-[Codelab Feedback](https://github.com/h2oai/tutorials/issues)
 
-
-## Driverless AI Test Drive2
+## Driverless AI Test Drive
 Duration: 1
 
 [Download Something](https://www.h2o.ai)
@@ -24,10 +22,10 @@ Duration: 1
 Test Drive is a two-hour lab session that exists in H2O's Aquarium. Aquarium is H2O's cloud environment that provides access to various tools for workshops, conferences, and training.
 
 Positive
-: Note is positive.
+: This note is positive.
 
 Negative
-: Note is negative.
+: This note is negative/neutral.
 
 All labs have a specific **Lab Duration*** to complete the lab. All Test Drive Lab session's will terminate after two-hours. No work will be saved!
 

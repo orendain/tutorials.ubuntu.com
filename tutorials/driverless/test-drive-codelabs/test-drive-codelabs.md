@@ -32,14 +32,14 @@ All labs have a specific **Lab Duration*** to complete the lab. All Test Drive L
 Positive
 : If you would like to continue exploring H2O's Driverless AI, request a [21-Day Free Trial: H2O Driverless AI license Key](https://www.h2o.ai/products/h2o-driverless-ai/).
 
-## How to Obtain a Two Hour Test Drive Session
+## How to Obtain a Two Hour Test Drive
 Duration: 2
 
 1\. Select **Free Trial** at the top-right corner of the [H2O.ai](https://www.h2o.ai/) home page or simply clik [here](https://www.h2o.ai/try-driverless-ai/).
 
 2\. A similar form will appear, fill out the **Request a 21 day free trial** form then select **Send This Secure Message**:
 
-<img src="assets/try-driverless-ai-form.jpg" alt="try-driverless-ai-form.jpg" width="600" />
+![alternative text](assets/try-driverless-ai-form.jpg)
 
 3\. After submitting the form the following options will appear, select **2 Hour Test Drive**:
 
